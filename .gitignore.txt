@@ -1,2 +1,2 @@
 #忽略.ignore文件
-.ignore
+.ignore.txt
